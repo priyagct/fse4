@@ -1,0 +1,5 @@
+com\poc\fse\entity\SkillSetRepository.class
+com\poc\fse\controller\SkillSetController.class
+com\poc\fse\PocFseApplication.class
+com\poc\fse\bean\SkillSetDetailsBean.class
+com\poc\fse\entity\SkillSetDetails.class
